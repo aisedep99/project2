@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+.container{
+  width: 90%;
+
+  margin: 0 auto;
+}
+@mixin btn1{
+  height: 80px;
+  background: #B25A59;
+  border-radius: 80px;
+  cursor: pointer;
+}
